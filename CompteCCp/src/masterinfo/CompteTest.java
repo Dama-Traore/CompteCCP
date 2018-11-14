@@ -8,7 +8,13 @@ public class CompteTest {
 
 	@Test
 	public void test() {
-		fail("Not yet implemented");
+		
+		//// test junit sur le retrait
+		
+		Compte ccp = new Compte("dama", 1, 15000);
+//		debiter(1,10000);
+		
+		
 	}
 
 }
